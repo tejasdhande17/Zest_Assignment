@@ -2,23 +2,17 @@
 
 namespace Zest_Project.Models
 {
-    public class Student
+    public class RegisterModel
     {
-        [Required]
-        public int Id { get; set; }
-
         [Required(ErrorMessage = "Name is required")]
-        [StringLength(50)]
         public string Name { get; set; } = string.Empty;
-
-        [Range(18, 60, ErrorMessage = "Age must be between 18 and 60")]
-        public int Age { get; set; }
-
-        [Required(ErrorMessage = "Course is required")]
-        public string Course { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "Email is required")]
         [EmailAddress(ErrorMessage = "Invalid Email")]
         public string Email { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Password is required")]
+        [MinLength(6, ErrorMessage = "Password must be at least 6 characters")]
+        public string Password { get; set; } = string.Empty;
     }
 }

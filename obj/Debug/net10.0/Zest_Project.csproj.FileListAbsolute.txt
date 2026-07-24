@@ -35,3 +35,13 @@ C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\obj\Debug\net10.0\re
 C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\obj\Debug\net10.0\Zest_Project.pdb
 C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\obj\Debug\net10.0\Zest_Project.genruntimeconfig.cache
 C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\obj\Debug\net10.0\ref\Zest_Project.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\obj\Debug\net10.0\Zest_Project.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Desktop\.Net\Zest_Project\Zest_Project\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

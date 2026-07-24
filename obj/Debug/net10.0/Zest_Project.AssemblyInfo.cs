@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zest_Project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df64b9ade060ca1dad33abf0877bda1727ec64f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zest_Project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zest_Project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
